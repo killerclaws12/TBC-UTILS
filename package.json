@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "slappey": "^3.0.0"
+  },
+  "name": "brighcomuty",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
